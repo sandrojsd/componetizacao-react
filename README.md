@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ReactJS" src=".github/react.jpg" width="200px" />
+    <img alt="ReactJS" src=".github/logo_react.png" width="200px" />
 </h1>
 
 ## Componentes usando ReactJS
