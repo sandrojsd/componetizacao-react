@@ -1,10 +1,6 @@
-<h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
-</h1>
-
 ## Componentes usando ReactJS
 
-Aplicação desenvolvida em um dos módulos do treinamento GoStak-Bootcampo da Rocketseat, onde utilizamos as tecnologias: **Webpack, Babel, Webpack Dev Server e ReactJS**.
+Aplicação desenvolvida com o conceito de componentização utlizando as tecnologias: **Webpack, Babel, Webpack Dev Server e ReactJS**.
 
 Nessa aplicação usamos os conceitos básicos de componentização para desenvolver uma **interface** semelhante com a do **Facebook** utilizando React.
 
