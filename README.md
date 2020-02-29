@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img alt="ReactJS" src=".github/react.jpg" width="200px" />
+</h1>
+
 ## Componentes usando ReactJS
 
 Aplicação desenvolvida com o conceito de componentização utlizando as tecnologias: **Webpack, Babel, Webpack Dev Server e ReactJS**.
