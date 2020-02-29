@@ -2,10 +2,6 @@
     <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
 </h1>
 
-<h3 align="center">
-  Introdução ao React
-</h3>
-
 ## Componentes usando ReactJS
 
 Aplicação desenvolvida em um dos módulos do treinamento GoStak-Bootcampo da Rocketseat, onde utilizamos as tecnologias: **Webpack, Babel, Webpack Dev Server e ReactJS**.
